@@ -1,6 +1,4 @@
-# config
-
-# config
+# Configaration
 
 This repository contains configuration files and documentation for customizing the Ghostty terminal emulator.
 
